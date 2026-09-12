@@ -1,0 +1,13 @@
+torch
+torchvision
+numpy
+matplotlib
+Pillow
+tqdm
+dlib
+scikit-learn
+ftfy
+regex
+ninja
+gdown
+clip@git+https://github.com/openai/CLIP.git
